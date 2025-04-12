@@ -1,4 +1,6 @@
 # ABOUT ME
-Develops in HTML and CSS \n
-Learning Java and SQL.\n
+
+Develops in HTML and CSS 
+
+Learning Java and SQL.
 Future Multiplatform Developer
