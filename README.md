@@ -1,6 +1,6 @@
 # ABOUT ME
 
-Develops in HTML and CSS 
+Junior Developer in HTML and CSS 
 
 Learning Java and SQL.
 
